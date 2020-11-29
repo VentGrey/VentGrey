@@ -10,7 +10,6 @@ Most of my personal interests revolve around computers and it's internals, the w
 
 I also like cryptocurrencies a lot :smile: however I don't like <img width="24px" src="https://en.bitcoin.it/w/images/en/2/29/BC_Logo_.png"> Bitcoin  I like <img width="24px" src="https://cdn.iconscout.com/icon/free/png-256/monero-441944.png"> Monero instead. Privacy on money is law :heart:
 
-
 ## Other things I love :heart:
 
 * :notes: I love progressive Rock / Metal. Specially Steven Wilson and Opeth :metal:
@@ -85,19 +84,20 @@ I also like cryptocurrencies a lot :smile: however I don't like <img width="24px
 
 ## Some work / contributing experience
 
-Currently the only worker and _BDFL_ [@UpVent](https://github.com/UpVent) :smiley_cat:
+_BDFL_ of [@UpVent](https://github.com/UpVent) a fully open-source / libre software company. :smiley_cat:
 
-:computer: Programmer and DevOps at [Future Lab](https://github.com/futurelabmx) and [CyberIndustree](https://github.com/ascorpmx)
+:computer: Programmer and DevOps at [Future Lab](https://github.com/futurelabmx).
 
 Some other places I've worked for:
 
+* As a freelancer (2015-2019)
 * Ambotics (2019-2019)
 * AsCard (2018 - 2020)
-* CyberIndustree (2020 - *)
+* CyberIndustree (2020 - 2020)
 * BrannAR (2017 - 2019)
 
 
-If you want to ask me why I curse in my code, any question or just wanna have a nice chit-chat you can reach me out in Telegram at: @PhantomCS
+If you want to ask me why I curse a heck-lot in my code, any question or just wanna have a nice chit-chat you can reach me out in Telegram at: @PhantomCS
 
 
 
