@@ -2,6 +2,8 @@
 
 Hello there, chaps. My name is Omar :3 people usually call me "Vent" (online, that is). 
 
+> Edit: I've noticed that some Brave Browser users have donated BAT to this account. Since Brave doesn't let me know who or what repositories they contributed to I'll use my README as a big thanks for your support! :heart: 
+
 ## A few facts about me
 
 I'm a Mexican software developer, sysadmin and DevOps specialist (most of the time), a highly-proud free-software (as in freedom) activist and a happy contributor to free software repositories so, if I follow you on GitHub I will probably look all your repos for the sake of curiosity. 
