@@ -4,11 +4,13 @@ Hello there, chaps. My name is Omar :3 people usually call me "Vent" (online, th
 
 > Edit: I've noticed that some Brave Browser users have donated BAT to this account. Since Brave doesn't let me know who or what repositories they contributed to I'll use my README as a big thanks for your support! :heart: 
 
+> Edit 2: I'll start moving some things in here to my [User GitHub page](https://ventgrey.github.io). So expect this to get shorter.
+
 ## A few facts about me
 
 I'm a Mexican software developer, sysadmin and DevOps specialist (most of the time), a highly-proud free-software (as in freedom) activist and a happy contributor to free software repositories so, if I follow you on GitHub I will probably look all your repos for the sake of curiosity. 
 
-Most of my personal interests revolve around computers and it's internals, the world-wide popular web development isn't that interesting for me, especially because nowadays people just compete on who over-engineers more their apps. So for me Sysadmin stuff rocks! and so programming languages like C, Rust, Pascal, etc. I'm not saying the web sucks...much *BUT* we do need sysadmins too so I'll be happy to assist you if you happen to need help :wink:
+Most of my personal interests revolve around computers and it's internals, the world-wide popular web development isn't that interesting for me, especially because nowadays people just compete on who over-engineers more their apps. So for me Sysadmin stuff rocks! and so programming languages like C, Rust, Pascal, etc. I'm not saying the web sucks...much. *BUT* we do need sysadmins too so I'll be happy to assist you if you happen to need help :wink:
 
 I also like cryptocurrencies a lot :smile: however I don't like <img width="24px" src="https://en.bitcoin.it/w/images/en/2/29/BC_Logo_.png"> Bitcoin  I like <img width="24px" src="https://cdn.iconscout.com/icon/free/png-256/monero-441944.png"> Monero instead. Privacy on money is law :heart:
 
@@ -42,7 +44,6 @@ I also like cryptocurrencies a lot :smile: however I don't like <img width="24px
 * ASM/LLVM (Suffering made easy)
 * Kotlin :calling: (Java created by people who makes expensive IDE's)
 
-
 ### Other Programming Languages I've used but I'm not really interested mastering:
 
 * Python :snake: (Pseudocode that works)
@@ -56,8 +57,6 @@ I also like cryptocurrencies a lot :smile: however I don't like <img width="24px
 * Dart (*ANOTHER* google language?)
 * Ruby (:scream: OMG A RED PYTHON)
 * R (R => R)
-
-
 
 ## Unpopular Opinions :persevere:
 
