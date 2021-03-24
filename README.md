@@ -2,9 +2,17 @@
 
 Hello there, chaps. My name is Omar :3 people usually call me "Vent" (online, that is). 
 
-> Edit: I've noticed that some Brave Browser users have donated BAT to this account. Since Brave doesn't let me know who or what repositories they contributed to I'll use my README as a big thanks for your support! :heart: 
+## My thoughts on current situations: (Content with a lot of ad-hominem and ranting) 
 
-> Edit 2: I'll start moving some things in here to my [User GitHub page](https://ventgrey.github.io). So expect this to get shorter.
+As much as I like to keep it friendly when it comes to the coding community around me, these cancel culture supporters are utterly disgusting. Trying to rule out people by things non related to their jobs it's a sign of low IQ and poor problem solving skills. Mostly because this doesn't terminate social problems correctly, you have more intolerant people under the carpet, you just pretend they aren't there.
+
+For this matter I'm refraining to contact or support anyone who has participated in these kind of activities, also please don't try to tell me about the "Paradox of tolerance" there are countless articles that show how Karl Popper's words were terribly misunderstood and now are being used wildly by  emotional copypasta masters around the web. Here is [one of them](https://epoje.es/la-paradoja-de-la-paradoja-de-la-tolerancia/) just in case you are interested.
+
+If you are a "Cancel Culture" supporter or if you've cancelled anyone in the past, please refrain from contacting me, listen to [this song](https://www.youtube.com/watch?v=civuoU_NE38) instead and remove me from your "interests" list, I don't speculate, I **KNOW** you don't have anything of interest to show or offer here.
+
+> Who are you to wave your finger? So full of it
+> Eye balls deep in muddy waters, fuckin' hypocrite
+> Liar, lawyer, mirror, show me what's the difference?
 
 ## A few facts about me
 
