@@ -10,8 +10,10 @@ For this matter I'm refraining to contact or support anyone who has participated
 
 If you are a "Cancel Culture" supporter or if you've cancelled anyone in the past, please refrain from contacting me, listen to [this song](https://www.youtube.com/watch?v=civuoU_NE38) instead and remove me from your "interests" list, I don't speculate, I **KNOW** you don't have anything of interest to show or offer here.
 
-> Who are you to wave your finger? So full of it
-> Eye balls deep in muddy waters, fuckin' hypocrite
+> Who are you to wave your finger? So full of it.
+
+> Eye balls deep in muddy waters, fuckin' hypocrite.
+
 > Liar, lawyer, mirror, show me what's the difference?
 
 ## A few facts about me
