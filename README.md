@@ -2,6 +2,15 @@
 
 Hello there, chaps. My name is Omar :3 people usually call me "Vent" (online, that is). 
 
+
+## A few facts about me
+
+I'm a Mexican software developer, sysadmin and DevOps specialist (most of the time), a highly-proud free-software (as in freedom) activist and a happy contributor to free software repositories so, if I follow you on GitHub I will probably look all your repos for the sake of curiosity. 
+
+Most of my personal interests revolve around computers and it's internals, the world-wide popular web development isn't that interesting for me, especially because nowadays people just compete on who over-engineers more their apps. So for me Sysadmin stuff rocks! and so programming languages like C, Rust, Pascal, etc. I'm not saying the web sucks...much. *BUT* we do need sysadmins too so I'll be happy to assist you if you happen to need help :wink:
+
+I also like cryptocurrencies a lot :smile: however I don't like <img width="24px" src="https://en.bitcoin.it/w/images/en/2/29/BC_Logo_.png"> Bitcoin  I like <img width="24px" src="https://cdn.iconscout.com/icon/free/png-256/monero-441944.png"> Monero instead. Privacy on money is law :heart:
+
 ## My thoughts on current situations: (Content with a lot of ad-hominem and ranting) 
 
 As much as I like to keep it friendly when it comes to the coding community around me, these cancel culture supporters are utterly disgusting. Trying to rule out people by things non related to their jobs it's a sign of low IQ and poor problem solving skills. Mostly because this doesn't terminate social problems correctly, you have more intolerant people under the carpet, you just pretend they aren't there.
@@ -15,14 +24,6 @@ If you are a "Cancel Culture" supporter or if you've cancelled anyone in the pas
 > Eye balls deep in muddy waters, fuckin' hypocrite.
 
 > Liar, lawyer, mirror, show me what's the difference?
-
-## A few facts about me
-
-I'm a Mexican software developer, sysadmin and DevOps specialist (most of the time), a highly-proud free-software (as in freedom) activist and a happy contributor to free software repositories so, if I follow you on GitHub I will probably look all your repos for the sake of curiosity. 
-
-Most of my personal interests revolve around computers and it's internals, the world-wide popular web development isn't that interesting for me, especially because nowadays people just compete on who over-engineers more their apps. So for me Sysadmin stuff rocks! and so programming languages like C, Rust, Pascal, etc. I'm not saying the web sucks...much. *BUT* we do need sysadmins too so I'll be happy to assist you if you happen to need help :wink:
-
-I also like cryptocurrencies a lot :smile: however I don't like <img width="24px" src="https://en.bitcoin.it/w/images/en/2/29/BC_Logo_.png"> Bitcoin  I like <img width="24px" src="https://cdn.iconscout.com/icon/free/png-256/monero-441944.png"> Monero instead. Privacy on money is law :heart:
 
 ## Other things I love :heart:
 
