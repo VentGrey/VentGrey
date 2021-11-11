@@ -2,38 +2,35 @@
 
 Hello there, chaps. My name is Omar :3 people usually call me "Vent" (online, that is). 
 
-
 ## A few facts about me
 
 I'm a Mexican software developer, sysadmin and DevOps specialist (most of the time), a highly-proud free-software (as in freedom) activist and a happy contributor to free software repositories so, if I follow you on GitHub I will probably look all your repos for the sake of curiosity. 
 
 Most of my personal interests revolve around computers and it's internals, the world-wide popular web development isn't that interesting for me, especially because nowadays people just compete on who over-engineers more their apps. So for me Sysadmin stuff rocks! and so programming languages like C, Rust, Pascal, etc. I'm not saying the web sucks...much. *BUT* we do need sysadmins too so I'll be happy to assist you if you happen to need help :wink:
 
-I also like cryptocurrencies a lot :smile: however I don't like <img width="24px" src="https://en.bitcoin.it/w/images/en/2/29/BC_Logo_.png"> Bitcoin  I like <img width="24px" src="https://cdn.iconscout.com/icon/free/png-256/monero-441944.png"> Monero instead. Privacy on money is law :heart:
-
-## My thoughts on current situations: (Content with a lot of ad-hominem and ranting) 
+## ⚠️ Warning before contact. (It's better to settle things now and not later). 
 
 As much as I like to keep it friendly when it comes to the coding community around me, these cancel culture supporters are utterly disgusting. Trying to rule out people by things non related to their jobs it's a sign of low IQ and poor problem solving skills. Mostly because this doesn't terminate social problems correctly, you have more intolerant people under the carpet, you just pretend they aren't there.
 
-For this matter I'm refraining to contact or support anyone who has participated in these kind of activities, also please don't try to tell me about the "Paradox of tolerance" there are countless articles that show how Karl Popper's words were terribly misunderstood and now are being used wildly by  emotional copypasta masters around the web. Here is [one of those articles](https://epoje.es/la-paradoja-de-la-paradoja-de-la-tolerancia/) just in case you are interested.
+For this matter I'm refraining to contact or support anyone who has participated in these kind of activities, also please don't try to tell me about the "Paradox of tolerance" there are countless articles that show how Karl Popper's words were terribly misunderstood and now is being used wildly by emotional strawman-fallacy masters around the web (specially on twitter). Here is [one of those articles](https://epoje.es/la-paradoja-de-la-paradoja-de-la-tolerancia/) just in case you are interested.
 
-If you are a "Cancel Culture" supporter or if you've cancelled anyone in the past, please refrain from contacting me, listen to [this song](https://www.youtube.com/watch?v=civuoU_NE38) instead and remove me from your "interests" list, I don't speculate, I **KNOW** you don't have anything of interest to show or offer here.
+If you are a "Cancel Culture" supporter or if you've cancelled anyone in the past, please refrain from contacting me, listen to [this song](https://www.youtube.com/watch?v=civuoU_NE38) instead. I don't speculate, I **KNOW** for a fact that you don't have anything of interest to show or offer here, people with poor problem solving skills are not in my interest list `¯\_(ツ)_/¯`
 
 > Who are you to wave your finger? So full of it.
-
 > Eye balls deep in muddy waters, fuckin' hypocrite.
-
 > Liar, lawyer, mirror, show me what's the difference?
+
+Also yes, I signed the RMS support letter.
 
 ## Other things I love :heart:
 
 * :notes: I love progressive Rock / Metal. Specially Steven Wilson and Opeth :metal:
-* :smiley_cat: Cats are the *cutest* animal on earth.
-* :penguin: Y'all know what this means.
+* :smiley_cat: Cats, cause those are the *cutest* animal on earth.
+* :penguin: Gñu loonex.
 * :musical_keyboard: Piano :D
 * :star2: viewing repos of my comrades.
 * :grey_question: Not knowing things.
-* Don't FAANG :heart:
+* [M.A.A.N.G](https://www.google.com/search?q=Faang&source=lnms&tbm=isch&sa=X&ved=2ahUKEwi_yLSa5I_0AhXnQzABHSEpDt8Q_AUoAXoECAEQAw&biw=1912&bih=951&dpr=1#imgrc=TM_p40biC2XpqM) can shoo itself out of this profile. (It stands fot Meta, Amazon, Apple, Netflix and Google)
 
 
 ## My GitHub status. This thing is to showoff...isn't it? :thinking:
@@ -66,15 +63,15 @@ If you are a "Cancel Culture" supporter or if you've cancelled anyone in the pas
 * JavaScript (I was about to make a joke here but there is already a framework for that)
 * Typescript (I was about to make a joke here but there is already a framework for that: Any)
 * Dart (*ANOTHER* google language?)
-* Ruby (:scream: OMG A RED PYTHON)
+* Ruby (Not in a million years)
 * R (R => R)
 
 ## Unpopular Opinions :persevere:
 
 * Technology **IS NOT** politics, focus on science and innovation those are more important than "which term is more or less inclusive", "is this issue too toxic?" and other things. Science needs you to solve problems with your head :heart:
-* Codes Of Conduct are absolutely ridiculous and sometimes kill projects sometimes by banning good contributors for reasons arbitrary to their coding skills.
+* Codes Of Conduct **SOMETIMES** are absolutely ridiculous and sometimes kill projects sometimes by banning good contributors for reasons arbitrary to their coding skills.
 * One rude **BUT** good contributor is worth more than a hunded kind and flawed ones.
-* JavaScript is not the future, it is only more popular.
+* JavaScript is not the future, it is only more popular (it is also uglier than a 🚙 upside down).
 * The only obsolete and useless programming languages are the ones you cannot master with your current skill.
 * C and C++ aren't insecure and **super-dangerous**, devs don't read new standards and they suck at C/C++.
 * Even if Rust is king :crab: it's highly-verbose syntax is higly carcinogenic :sweat_smile:
@@ -108,9 +105,7 @@ Some other places I've worked for:
 * CyberIndustree (2020 - 2020)
 * BrannAR (2017 - 2019)
 
-
 If you want to ask me why I curse a heck-lot in my code, any question or just wanna have a nice chit-chat you can reach me out in Telegram at: @PhantomCS
-
 
 
 > "I would change everything I know, in exchange for **half** of what I don't"
