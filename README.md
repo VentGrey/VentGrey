@@ -1,9 +1,9 @@
 <h1 align="center"> "Second record was called Morningrise"~ Mikael Åkerfeldt  </h1>
 <img src="https://is3-ssl.mzstatic.com/image/thumb/Music118/v4/d4/37/73/d43773be-9eb0-68b9-a0ff-a9d249dfb779/00602557276473.rgb.jpg/248x248cc.jpg" align="right">
 
-Hello there, chaps. My name is Omar :3 people usually call me "Vent" (online, that is). 
-
 ## A few facts about me
+
+Hello there, chaps. My name is Omar :3 people usually call me "Vent" (online, that is). 
 
 I'm a Mexican software developer, sysadmin and DevOps specialist (most of the time), a highly-proud free-software (as in freedom) activist and a happy contributor to free software repositories so, if I follow you on GitHub I will probably look all your repos for the sake of curiosity. 
 
