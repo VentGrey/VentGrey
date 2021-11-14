@@ -1,4 +1,5 @@
-# "Second record was called Morningrise"~ Mikael Åkerfeldt 
+<h1 align="center"> "Second record was called Morningrise"~ Mikael Åkerfeldt  </h1>
+<img src="https://is3-ssl.mzstatic.com/image/thumb/Music118/v4/d4/37/73/d43773be-9eb0-68b9-a0ff-a9d249dfb779/00602557276473.rgb.jpg/248x248cc.jpg" align="right">
 
 Hello there, chaps. My name is Omar :3 people usually call me "Vent" (online, that is). 
 
@@ -103,6 +104,7 @@ Some other places I've worked for:
 * AsCard (2018 - 2020)
 * CyberIndustree (2020 - 2020)
 * BrannAR (2017 - 2019)
+* UpVent (2020 - Present)
 
 If you want to ask me why I curse a heck-lot in my code, any question or just wanna have a nice chit-chat you can reach me out in Telegram at: @PhantomCS
 
