@@ -3,25 +3,11 @@
 
 ## A few facts about me
 
-Hello there, chaps. My name is Omar :3 people usually call me "Vent" (online, that is). 
+Hello there, chaps. My name is *Omar* :3 people usually call me *"Vent"* or *"VentGrey"* (online...that is). 
 
 I'm a Mexican software developer, sysadmin and DevOps specialist (most of the time), a highly-proud free-software (as in freedom) activist and a happy contributor to free software repositories so, if I follow you on GitHub I will probably look all your repos for the sake of curiosity. 
 
 Most of my personal interests revolve around computers and it's internals, the world-wide popular web development isn't that interesting for me, especially because nowadays people just compete on who over-engineers more their apps. So for me Sysadmin stuff rocks! and so programming languages like C, Rust, Pascal, etc. I'm not saying the web sucks...much. *BUT* we do need sysadmins too so I'll be happy to assist you if you happen to need help :wink:
-
-## ⚠️ Warning before contact. (It's better to settle things now and not later). 
-
-As much as I like to keep it friendly when it comes to the coding community around me, these cancel culture supporters are utterly disgusting. Trying to rule out people by things non related to their jobs it's a sign of low IQ and poor problem solving skills. Mostly because this doesn't terminate social problems correctly, you have more intolerant people under the carpet, you just pretend they aren't there.
-
-For this matter I'm refraining to contact or support anyone who has participated in these kind of activities, also please don't try to tell me about the "Paradox of tolerance" there are countless articles that show how Karl Popper's words were terribly misunderstood and now is being used wildly by emotional strawman-fallacy masters around the web (specially on twitter). Here is [one of those articles](https://epoje.es/la-paradoja-de-la-paradoja-de-la-tolerancia/) just in case you are interested.
-
-If you are a "Cancel Culture" supporter or if you've cancelled anyone in the past, please refrain from contacting me, listen to [this song](https://www.youtube.com/watch?v=civuoU_NE38) instead. I don't speculate, I **KNOW** for a fact that you don't have anything of interest to show or offer here, people with poor problem solving skills are not in my interest list `¯\_(ツ)_/¯`
-
-> Who are you to wave your finger? So full of it.
-> Eye balls deep in muddy waters, fuckin' hypocrite.
-> Liar, lawyer, mirror, show me what's the difference?
-
-Also yes, I signed the RMS support letter.
 
 ## Other things I love :heart:
 
@@ -33,10 +19,25 @@ Also yes, I signed the RMS support letter.
 * :grey_question: Not knowing things.
 * [M.A.A.N.G](https://www.google.com/search?q=Faang&source=lnms&tbm=isch&sa=X&ved=2ahUKEwi_yLSa5I_0AhXnQzABHSEpDt8Q_AUoAXoECAEQAw&biw=1912&bih=951&dpr=1#imgrc=TM_p40biC2XpqM) can shoo itself out of this profile. (It stands fot Meta, Amazon, Apple, Netflix and Google)
 
+## :warning: Before contacting me, PLEASE READ THIS. (Trust me, it will save us future problems)
+
+<p align="left">
+<img src="https://user-images.githubusercontent.com/24773698/141674694-c21de006-e5db-4269-8f11-1f704db00766.png" align="right">
+
+As much as I like to keep it friendly when it comes to the coding community around me, these cancel culture supporters are utterly disgusting. Trying to rule out people by things non related to their jobs it's a sign of low IQ and poor problem solving skills. Mostly because this doesn't terminate social problems correctly, you have more intolerant people under the carpet, you just pretend they aren't there.
+  
+For this matter I'm refraining to contact or support anyone who has participated in these kind of activities, also please don't try to tell me about the "Paradox of tolerance" there are countless articles that show how Karl Popper's words were terribly misunderstood and now is being used wildly by emotional strawman-fallacy masters around the web (specially on twitter). Here is [one of those articles](https://epoje.es/la-paradoja-de-la-paradoja-de-la-tolerancia/) just in case you are interested.
+
+If you are a "Cancel Culture" supporter or if you've cancelled anyone in the past, please refrain from contacting me, listen to [this song](https://www.youtube.com/watch?v=civuoU_NE38) instead. I don't speculate, I **KNOW** for a fact that you don't have anything of interest to show or offer here, people with poor problem solving skills are not in my interest list `¯\_(ツ)_/¯`
+</p>
+  
+Also yes, I signed the RMS support letter.
+
 
 ## My GitHub status. This thing is to showoff...isn't it? :thinking:
   
 ![VentGrey Github Stats](https://github-readme-stats.vercel.app/api?username=ventgrey&show_icons=true&title_color=fff&icon_color=5C6BC0&text_color=8590CC&bg_color=151515)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ventgrey&hide=javascript,html,css,python,julia,scss,ruby,lua,prolog,php,java,C%23,jupyter%20notebook&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## These are my favorite languages :heart: :rocket:
 
