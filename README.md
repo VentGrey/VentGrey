@@ -21,7 +21,7 @@ Most of my personal interests revolve around computers and it's internals, the w
 
 ## :warning: Before contacting me, PLEASE READ THIS. (Trust me, it will save us future problems)
 
-<p align="left">
+<p align="right">
 <img src="https://user-images.githubusercontent.com/24773698/141674694-c21de006-e5db-4269-8f11-1f704db00766.png" align="right">
 
 As much as I like to keep it friendly when it comes to the coding community around me, these cancel culture supporters are utterly disgusting. Trying to rule out people by things non related to their jobs it's a sign of low IQ and poor problem solving skills. Mostly because this doesn't terminate social problems correctly, you have more intolerant people under the carpet, you just pretend they aren't there.
