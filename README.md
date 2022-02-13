@@ -19,6 +19,14 @@ Most of my personal interests revolve around computers and it's internals, the w
 * :grey_question: Not knowing things.
 * [M.A.A.N.G](https://www.google.com/search?q=Faang&source=lnms&tbm=isch&sa=X&ved=2ahUKEwi_yLSa5I_0AhXnQzABHSEpDt8Q_AUoAXoECAEQAw&biw=1912&bih=951&dpr=1#imgrc=TM_p40biC2XpqM) can shoo itself out of this profile. (It stands fot Meta, Amazon, Apple, Netflix and Google)
 
+## Support :heart:
+
+If you want to help me continue make free (as in freedom) software you can consider inviting me a coffee here :)
+
+- KoFi ☕ :  https://ko-fi.com/ventgrey
+- Monero : 484vLbNSiVj57tcvXkYAs5dMgMV64RLLb5xD2YZfaKkJDLSv1tQeb9iDcdPXBEDFPriwQpkYftHPyZKjSuMVneCWJ3yenr9
+
+
 ## :warning: Before contacting me, PLEASE READ THIS. (Trust me, it will save us future problems)
 
 <p align="right">
