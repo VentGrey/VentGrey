@@ -39,7 +39,7 @@ For this matter I'm refraining to contact or support anyone who has participated
 If you are a "Cancel Culture" supporter or if you've cancelled anyone in the past, please refrain from contacting me, listen to [this song](https://www.youtube.com/watch?v=civuoU_NE38) instead. I don't speculate, I **KNOW** for a fact that you don't have anything of interest to show or offer here, people with poor problem solving skills are not in my interest list `¯\_(ツ)_/¯`
 </p>
   
-Also yes, I signed the RMS support letter.
+**Also yes, I signed the RMS support letter.**
 
 
 ## My GitHub status. This thing is to showoff...isn't it? :thinking:
@@ -78,22 +78,24 @@ Also yes, I signed the RMS support letter.
 ## Unpopular Opinions :persevere:
 
 * Technology **IS NOT** politics, focus on science and innovation those are more important than "which term is more or less inclusive", "is this issue too toxic?" and other things. Science needs you to solve problems with your head :heart:
+  * "B-but...everything is politics". Go to a politics place then, the compiler didn't, doesn't and won't ever care which social movement you side with.
 * Codes Of Conduct **SOMETIMES** are absolutely ridiculous and sometimes kill projects sometimes by banning good contributors for reasons arbitrary to their coding skills.
 * One rude **BUT** good contributor is worth more than a hunded kind and flawed ones.
 * JavaScript is not the future, it is only more popular (it is also uglier than a 🚙 upside down).
 * The only obsolete and useless programming languages are the ones you cannot master with your current skill.
+  * "But PHP is old and..." yes, we heard you boi who cannot be productive without `npm install`.
 * C and C++ aren't insecure and **super-dangerous**, devs don't read new standards and they suck at C/C++.
 * Even if Rust is king :crab: it's highly-verbose syntax is higly carcinogenic :sweat_smile:
 * Newer languages aren't **THAT** awesome as they claim to be. 
-* Serverless, Containers and other *"popular terms"* have been around for too long. Someone just found how to make them popular using ridiculous names.
+* Serverless is for :cat:'s (cats)
 * PHP isn't *"obsolete"* or *"dead"*. It also doesn't have horrible code. Horrible code comes from horrible programmers.
 * `-O3` doesn't produce faulty code, if it does, your code is wrong, not the compiler.
 * O'Caml is scary :ghost: :camel:
-* YAML sucks :neutral_face:
+* YAML sucks :neutral_face: (2022 update, it still sucks)
 * "Cross platform" usually means "Web interface" which isn't really better
 * Using a lot of dependencies doesn't make a project "smart" it makes it "bloated"
 * Some garbage **IS NOT OK**
-* The popular mindset of "the client doesn't care how you did it, it cares that the project just works" is precisely the one who is making us drown in bugs.
+* The popular mindset of "Customers don't care how you did it, they care that software just works" is precisely what's making us drown in bugs.
 * Frameworks are becoming developer friendly but machine agressive.
 * "We have too much memory nowadays", "We have massive storage" are just excuses for people who can't build efficient software.
 * Static binaries are bloated
@@ -113,6 +115,7 @@ Some other places I've worked for:
 * AsCard (2018 - 2020)
 * CyberIndustree (2020 - 2020)
 * BrannAR (2017 - 2019)
+* NetlogistiK (2022) (FEB-SEP)
 * UpVent (2020 - Present)
 
 If you want to ask me why I curse a heck-lot in my code, any question or just wanna have a nice chit-chat you can reach me out in Telegram at: @PhantomCS
