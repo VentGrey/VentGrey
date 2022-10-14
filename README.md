@@ -7,7 +7,7 @@ Hello there, chaps. My name is *Omar* :3 people usually call me *"Vent"* or *"Ve
 
 I'm a Mexican software developer, sysadmin and DevOps specialist (most of the time), a highly-proud free-software (as in freedom) activist and a happy contributor to free software repositories so, if I follow you on GitHub I will probably look all your repos for the sake of curiosity. 
 
-Most of my personal interests revolve around computers and it's internals, the world-wide popular web development isn't that interesting for me, especially because nowadays people just compete on who over-engineers more their apps. So for me Sysadmin stuff rocks! and so programming languages like C, Rust, Pascal, etc. I'm not saying the web sucks...much. *BUT* we do need sysadmins too so I'll be happy to assist you if you happen to need help :wink:
+Most of my personal interests revolve around computers and it's internals, web development isn't that interesting for me, especially because nowadays people just compete on who over-engineers more their websites. For me sysadmin stuff rocks! and so programming languages like C, Rust, Pascal, etc. I'm not saying the web sucks...much. *BUT* we do need sysadmins too so I'll be happy to assist you if you happen to need help :wink:
 
 ## Other things I love :heart:
 
