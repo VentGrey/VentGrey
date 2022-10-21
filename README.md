@@ -47,31 +47,32 @@ If you are a "Cancel Culture" supporter or if you've cancelled anyone in the pas
 
 ## These are my favorite languages :heart: :rocket:
 
-|              C             |            Rust            |             PHP            |            Bash            |           Free Pascal           |             Go             |
+|              C             |            Rust            |             PHP            |            Bash            |           Free Pascal           |             TypeScript             |
 |:--------------------------:|:--------------------------:|:--------------------------:|:--------------------------:|:--------------------------:|:--------------------------:|
-| <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/The_C_Programming_Language_logo.svg/1200px-The_C_Programming_Language_logo.svg.png" width="100px"> | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Rust_programming_language_black_logo.svg/1200px-Rust_programming_language_black_logo.svg.png" width="100px"> | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1024px-PHP-logo.svg.png" width="100px"> | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/1200px-Bash_Logo_Colored.svg.png" width="100px"> | <img src="https://wiki.freepascal.org/images/f/fd/Lazarus-icons-lpr-proposal-bpsoftware.png" width="100px"> | <img src="https://seeklogo.com/images/G/go-logo-046185B647-seeklogo.com.png" width="100px"> |
-| The nicest language on earth |  C++ who is afraid of stdin  |  JavaScript with an :elephant:  |  Go POSIX or go home  |  Golang for real programmers  |  The Pascal that knew how to sell itself.  |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/The_C_Programming_Language_logo.svg/1200px-The_C_Programming_Language_logo.svg.png" width="100px"> | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Rust_programming_language_black_logo.svg/1200px-Rust_programming_language_black_logo.svg.png" width="100px"> | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1024px-PHP-logo.svg.png" width="100px"> | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/1200px-Bash_Logo_Colored.svg.png" width="100px"> | <img src="https://wiki.freepascal.org/images/f/fd/Lazarus-icons-lpr-proposal-bpsoftware.png" width="100px"> | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1024px-Typescript_logo_2020.svg.png" width="100px"> |
+| The nicest language on earth |  C++ who is afraid of stdin  |  JavaScript with an :elephant:  |  Go POSIX or go home  |  Golang for real programmers  | `let x:number = undefinded;` Least-ugly JS  |
 
 ### Programming Languages I'd LOVE to learn:
 * Julia (The purple matlab thingy)
-* Vala (Kotlin for GNOME)
-* C++ (C that takes years to compile)
+* Lua (Tiny python for roblox and pron)
+* Lisp ((((((lisp)))))
+* Typescript (Only weebs use `any` here)
 * ASM/LLVM (Suffering made easy)
 * Kotlin :calling: (Java created by people who makes expensive IDE's)
 
 ### Other Programming Languages I've used but I'm not really interested mastering:
 
 * Python :snake: (Pseudocode that works)
+* C++ (C that takes years to compile)
 * Perl :camel: (Write scripts that *only you* can understand)
 * Java :coffee: (Object is an object whose parent is object at the object class)
 * Scala :coffee:++ (Java that works)
 * C# (Java made by windows guys)
-* Lisp ((((((lisp))))))
 * JavaScript (I was about to make a joke here but there is already a framework for that)
-* Typescript (I was about to make a joke here but there is already a framework for that: Any)
 * Dart (*ANOTHER* google language?)
 * Ruby (Not in a million years)
 * R (R => R)
+* Vala (Kotlin for GNOME)
 
 ## Unpopular Opinions :persevere:
 
@@ -97,6 +98,7 @@ If you are a "Cancel Culture" supporter or if you've cancelled anyone in the pas
 * Frameworks are becoming developer friendly but machine agressive.
 * "We have too much memory nowadays", "We have massive storage" are just excuses for people who can't build efficient software.
 * Static binaries are bloated
+* Not caring about performance/speed makes you a bad programmer.
 ---
 
 
@@ -116,7 +118,7 @@ Some other places I've worked for:
 * NetlogistiK (2022) (FEB-SEP)
 * UpVent (2020 - Present)
 
-If you want to ask me why I curse a heck-lot in my code, any question or just wanna have a nice chit-chat you can reach me out in Telegram at: @PhantomCS
+If you want to ask me why I curse a heck-lot in my code, any question or just wanna have a nice chit-chat you can reach me out in Telegram at: @VentGrey
 
 
 > "I would change everything I know, in exchange for **half** of what I don't"
