@@ -43,8 +43,6 @@ If you are a "Cancel Culture" supporter or if you've cancelled anyone in the pas
 
 
 ## My GitHub status. This thing is to showoff...isn't it? :thinking:
-  
-![VentGrey Github Stats](https://github-readme-stats.vercel.app/api?username=ventgrey&show_icons=true&title_color=fff&icon_color=5C6BC0&text_color=8590CC&bg_color=151515)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ventgrey&hide=javascript,html,css,python,julia,scss,ruby,lua,prolog,php,java,C%23,jupyter%20notebook&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## These are my favorite languages :heart: :rocket:
