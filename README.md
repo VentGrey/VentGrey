@@ -90,6 +90,8 @@ If you are a "Cancel Culture" supporter or if you've cancelled anyone in the pas
 * PHP isn't *"obsolete"* or *"dead"*. It also doesn't have horrible code. Horrible code comes from horrible programmers.
 * `-O3` doesn't produce faulty code, if it does, your code is wrong, not the compiler.
 * O'Caml is scary :ghost: :camel:
+* The `gnome-keyring-daemon` fucking sucks but there is no good alternative to it.
+* Dbus should be dead.
 * YAML sucks :neutral_face: (2022 update, it still sucks)
 * "Cross platform" usually means "Web interface" which isn't really better
 * Using a lot of dependencies doesn't make a project "smart" it makes it "bloated"
