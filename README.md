@@ -44,6 +44,8 @@ If you are a "Cancel Culture" supporter or if you've cancelled anyone in the pas
 
 ## My GitHub status. This thing is to showoff...isn't it? :thinking:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ventgrey&hide=javascript,html,css,python,julia,scss,ruby,lua,prolog,php,java,C%23,jupyter%20notebook&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=VentGrey" alt="VentGrey" /></p>
+
 
 ## These are my favorite languages :heart: :rocket:
 
