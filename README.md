@@ -54,44 +54,18 @@ If you are a "Cancel Culture" supporter or if you've cancelled anyone in the pas
 | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/The_C_Programming_Language_logo.svg/1200px-The_C_Programming_Language_logo.svg.png" width="100px"> | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Rust_programming_language_black_logo.svg/1200px-Rust_programming_language_black_logo.svg.png" width="100px"> | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1024px-PHP-logo.svg.png" width="100px"> | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/1200px-Bash_Logo_Colored.svg.png" width="100px"> | <img src="https://wiki.freepascal.org/images/f/fd/Lazarus-icons-lpr-proposal-bpsoftware.png" width="100px"> | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1024px-Typescript_logo_2020.svg.png" width="100px"> |
 | The nicest language on earth |  C++ who is afraid of stdin  |  JavaScript with an :elephant:  |  Go POSIX or go home  |  Golang for real programmers  | `let x:number = undefinded;` Least-ugly JS  |
 
-### Programming Languages I'd LOVE to learn:
-* Julia (The purple matlab thingy)
-* Lua (Tiny python for roblox and pron)
-* Lisp ((((((lisp)))))
-* Typescript (Only weebs use `any` here)
-* ASM/LLVM (Suffering made easy)
-* Kotlin :calling: (Java created by people who makes expensive IDE's)
-
-### Other Programming Languages I've used but I'm not really interested mastering:
-
-* Python :snake: (Pseudocode that works)
-* C++ (C that takes years to compile)
-* Perl :camel: (Write scripts that *only you* can understand)
-* Java :coffee: (Object is an object whose parent is object at the object class)
-* Scala :coffee:++ (Java that works)
-* C# (Java made by windows guys)
-* JavaScript (I was about to make a joke here but there is already a framework for that)
-* Dart (*ANOTHER* google language?)
-* Ruby (Not in a million years)
-* R (R => R)
-* Vala (Kotlin for GNOME)
-
 ## Unpopular Opinions :persevere:
 
 * Technology **IS NOT** politics, focus on science and innovation those are more important than "which term is more or less inclusive", "is this issue too toxic?" and other things. Science needs you to solve problems with your head :heart:
   * "B-but...everything is politics". Go to a politics place then, the compiler didn't, doesn't and won't ever care which social movement you side with.
 * Codes Of Conduct **SOMETIMES** are absolutely ridiculous and sometimes kill projects sometimes by banning good contributors for reasons arbitrary to their coding skills.
 * One rude **BUT** good contributor is worth more than a hunded kind and flawed ones.
-* JavaScript is not the future, it is only more popular (it is also uglier than a 🚙 upside down).
 * The only obsolete and useless programming languages are the ones you cannot master with your current skill.
   * "But PHP is old and..." yes, we heard you boi who cannot be productive without `npm install`.
 * C and C++ aren't insecure and **super-dangerous**, devs don't read new standards and they suck at C/C++.
-* Even if Rust is king :crab: it's highly-verbose syntax is higly carcinogenic :sweat_smile:
 * Newer languages aren't **THAT** awesome as they claim to be. 
-* Serverless is for :cat:'s (cats)
 * PHP isn't *"obsolete"* or *"dead"*. It also doesn't have horrible code. Horrible code comes from horrible programmers.
 * `-O3` doesn't produce faulty code, if it does, your code is wrong, not the compiler.
-* O'Caml is scary :ghost: :camel:
 * The `gnome-keyring-daemon` fucking sucks but there is no good alternative to it.
 * Dbus should be dead.
 * YAML sucks :neutral_face: (2022 update, it still sucks)
@@ -101,8 +75,7 @@ If you are a "Cancel Culture" supporter or if you've cancelled anyone in the pas
 * The popular mindset of "Customers don't care how you did it, they care that software just works" is precisely what's making us drown in bugs.
 * Frameworks are becoming developer friendly but machine agressive.
 * "We have too much memory nowadays", "We have massive storage" are just excuses for people who can't build efficient software.
-* Static binaries are bloated
-* Not caring about performance/speed makes you a bad programmer.
+* Not caring about performance makes you a bad programmer.
 ---
 
 
