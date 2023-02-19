@@ -41,7 +41,7 @@ If you are a "Cancel Culture" supporter, think that posts made 10 years ago shou
 
 
 ## My GitHub status. This thing is to showoff...isn't it? :thinking:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ventgrey&hide=javascript,html,css,python,julia,scss,ruby,lua,prolog,php,java,C%23,jupyter%20notebook&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ventgrey&hide=javascript,html,css,python,julia,scss,ruby,lua,prolog,php,vim%20script,makefile,m4,perl,c%2B%2B,roff,hack,kotlin,elm,go,svelte,java,C%23,jupyter%20notebook&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## These are my favorite languages :heart: :rocket:
 
