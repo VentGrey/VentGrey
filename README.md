@@ -5,19 +5,17 @@
 
 Hello there, chaps. My name is *Omar* :3 people usually call me *"Vent"* or *"VentGrey"* (online...that is). 
 
-I'm a Mexican software developer, sysadmin and DevOps specialist (most of the time), a highly-proud free-software (as in freedom) activist and a happy contributor to free software repositories so, if I follow you on GitHub I will probably look all your repos for the sake of curiosity. 
+I'm a software developer, sysadmin and DevOps specialist (most of the time), a highly-proud free-software (as in freedom) activist and a happy contributor to free software repositories so, if I follow you on GitHub I will probably look all your repos and enjoy your work. 
 
-Most of my personal interests revolve around computers and it's internals, web development isn't that interesting for me, especially because nowadays people just compete on who over-engineers more their websites. For me sysadmin stuff rocks! and so programming languages like C, Rust, Pascal, etc. I'm not saying the web sucks...much. *BUT* we do need sysadmins too so I'll be happy to assist you if you happen to need help :wink:
+Most of my personal interests revolve around computers, web development isn't that interesting for me (tho, it gives me food), mostly because nowadays people just compete on who over-engineers more their websites. For me sysadmin stuff rocks! and so programming languages like C, Rust, Pascal, etc. I'm not saying the web sucks...much. *BUT* we do need sysadmins too so I'll be happy to assist you if you happen to need help :wink:
 
 ## Other things I love :heart:
 
 * :notes: I love progressive Rock / Metal. Specially Steven Wilson and Opeth :metal:
 * :smiley_cat: Cats, cause those are the *cutest* animal on earth.
-* :penguin: Gñu loonex.
-* :musical_keyboard: Piano :D
 * :star2: viewing repos of my comrades.
 * :grey_question: Not knowing things.
-* [M.A.A.N.G](https://www.google.com/search?q=Faang&source=lnms&tbm=isch&sa=X&ved=2ahUKEwi_yLSa5I_0AhXnQzABHSEpDt8Q_AUoAXoECAEQAw&biw=1912&bih=951&dpr=1#imgrc=TM_p40biC2XpqM) can shoo itself out of this profile. (It stands fot Meta, Amazon, Apple, Netflix and Google)
+* Proprietary big-tech can shoo itself out of here.
 
 ## Support :heart:
 
@@ -32,11 +30,11 @@ If you want to help me continue make free (as in freedom) software you can consi
 <p align="right">
 <img src="https://user-images.githubusercontent.com/24773698/141674694-c21de006-e5db-4269-8f11-1f704db00766.png" align="right">
 
-As much as I like to keep it friendly when it comes to the coding community around me, these cancel culture supporters are utterly disgusting. Trying to rule out people by things non related to their jobs it's a sign of low IQ and poor problem solving skills. Mostly because this doesn't terminate social problems correctly, you have more intolerant people under the carpet, you just pretend they aren't there.
+I like to keep it friendly when it comes to the coding community around me, but these cancel culture supporters are utterly **disgusting**. Trying to rule out people by things non related to their jobs it's a sign of poor problem solving skills. Mostly because this doesn't terminate social problems correctly, you have more intolerant people under the carpet, you just pretend they aren't there.
   
-For this matter I'm refraining to contact or support anyone who has participated in these kind of activities, also please don't try to tell me about the "Paradox of tolerance" there are countless articles that show how Karl Popper's words were terribly misunderstood and now is being used wildly by emotional strawman-fallacy masters around the web (specially on twitter). Here is [one of those articles](https://epoje.es/la-paradoja-de-la-paradoja-de-la-tolerancia/) just in case you are interested.
+For this matter I'm refraining to contact anyone who has participated in these kind of activities, please don't try to tell me about the "Paradox of tolerance" there are countless articles that show how Karl Popper's words were terribly misunderstood and now are being used wildly by emotional strawman-fallacy masters around the web (specially on twitter). Here is [one of those articles](https://epoje.es/la-paradoja-de-la-paradoja-de-la-tolerancia/) just in case you are interested.
 
-If you are a "Cancel Culture" supporter or if you've cancelled anyone in the past, please refrain from contacting me, listen to [this song](https://www.youtube.com/watch?v=civuoU_NE38) instead. I don't speculate, I **KNOW** for a fact that you don't have anything of interest to show or offer here, people with poor problem solving skills are not in my interest list `¯\_(ツ)_/¯`
+If you are a "Cancel Culture" supporter, think that posts made 10 years ago should "Pay the price" or if you've cancelled anyone in the past, please refrain from contacting me, listen to [this song](https://www.youtube.com/watch?v=civuoU_NE38) instead. It's an objective fact thet you don't have anything of interest to show or offer here (or anythere) and people with poor problem solving skills are not really in my interest list `¯\_(ツ)_/¯`
 </p>
   
 **Also yes, I signed the RMS support letter.**
@@ -63,19 +61,16 @@ If you are a "Cancel Culture" supporter or if you've cancelled anyone in the pas
 * The only obsolete and useless programming languages are the ones you cannot master with your current skill.
   * "But PHP is old and..." yes, we heard you boi who cannot be productive without `npm install`.
 * C and C++ aren't insecure and **super-dangerous**, devs don't read new standards and they suck at C/C++.
-* Newer languages aren't **THAT** awesome as they claim to be. 
-* PHP isn't *"obsolete"* or *"dead"*. It also doesn't have horrible code. Horrible code comes from horrible programmers.
+* Horrible code comes from horrible programmers.
 * `-O3` doesn't produce faulty code, if it does, your code is wrong, not the compiler.
 * The `gnome-keyring-daemon` fucking sucks but there is no good alternative to it.
-* Dbus should be dead.
-* YAML sucks :neutral_face: (2022 update, it still sucks)
+* YAML sucks :neutral_face: (2023 update, it still sucks)
 * "Cross platform" usually means "Web interface" which isn't really better
 * Using a lot of dependencies doesn't make a project "smart" it makes it "bloated"
 * Some garbage **IS NOT OK**
 * The popular mindset of "Customers don't care how you did it, they care that software just works" is precisely what's making us drown in bugs.
-* Frameworks are becoming developer friendly but machine agressive.
 * "We have too much memory nowadays", "We have massive storage" are just excuses for people who can't build efficient software.
-* Not caring about performance makes you a bad programmer.
+* Making things simple isn't difficult, y'all just too lazy to think sometimes (myself included).
 ---
 
 
