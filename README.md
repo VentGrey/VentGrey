@@ -24,22 +24,6 @@ If you want to help me continue make free (as in freedom) software you can consi
 - KoFi ☕ :  https://ko-fi.com/ventgrey
 - Monero : 484vLbNSiVj57tcvXkYAs5dMgMV64RLLb5xD2YZfaKkJDLSv1tQeb9iDcdPXBEDFPriwQpkYftHPyZKjSuMVneCWJ3yenr9
 
-
-## :warning: Before contacting me, PLEASE READ THIS. (Trust me, it will save us future problems)
-
-<p align="right">
-<img src="https://user-images.githubusercontent.com/24773698/141674694-c21de006-e5db-4269-8f11-1f704db00766.png" align="right">
-
-I like to keep it friendly when it comes to the coding community around me, but these cancel culture supporters are utterly **disgusting**. Trying to rule out people by things non related to their jobs it's a sign of poor problem solving skills. Mostly because this doesn't terminate social problems correctly, you have more intolerant people under the carpet, you just pretend they aren't there.
-  
-For this matter I'm refraining to contact anyone who has participated in these kind of activities, please don't try to tell me about the "Paradox of tolerance" there are countless articles that show how Karl Popper's words were terribly misunderstood and now are being used wildly by emotional strawman-fallacy masters around the web (specially on twitter). Here is [one of those articles](https://epoje.es/la-paradoja-de-la-paradoja-de-la-tolerancia/) just in case you are interested.
-
-If you are a "Cancel Culture" supporter, think that posts made 10 years ago should "Pay the price" or if you've cancelled anyone in the past, please refrain from contacting me, listen to [this song](https://www.youtube.com/watch?v=civuoU_NE38) instead. It's an objective fact thet you don't have anything of interest to show or offer here (or anythere) and people with poor problem solving skills are not really in my interest list `¯\_(ツ)_/¯`
-</p>
-  
-**Also yes, I signed the RMS support letter.**
-
-
 ## My GitHub status. This thing is to showoff...isn't it? :thinking:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ventgrey&hide=javascript,html,css,python,julia,scss,emacs%20lisp,ruby,roff,prolog,vim%20script,makefile,m4,perl,c%2B%2B,kotlin,elm,svelte,java,C%23,hcl,batchfile,gsl,meson,coffeescript,dart,glsl,jupyter%20notebook&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
