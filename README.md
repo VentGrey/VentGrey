@@ -7,7 +7,8 @@ Hello there, chaps. My name is *Omar* :3 people usually call me *"Vent"* or *"Ve
 
 I'm a software developer, sysadmin and DevOps specialist (most of the time), a highly-proud free-software (as in freedom) activist and a happy contributor to free software repositories so, if I follow you on GitHub I will probably look all your repos and enjoy your work. 
 
-Most of my personal interests revolve around computers, web development isn't that interesting for me (tho, it gives me food), mostly because nowadays people just compete on who over-engineers more their websites. For me sysadmin stuff rocks! and so programming languages like C, Rust, Pascal, etc. I'm not saying the web sucks...much. *BUT* we do need sysadmins too so I'll be happy to assist you if you happen to need help :wink:
+Most of my personal interests revolve around computers, web development isn't that interesting for me. However, I find myself disheartened by the current trend of over-engineering websites. In a world of needless complexity, the elegance of sysadmin work shines through. I'm not saying the web sucks...much. *BUT* we do need sysadmins too so Should you require assistance in this area, do not hesitate to seek me out. I am more than willing to lend a hand.
+
 
 ## Other things I love :heart:
 
@@ -32,27 +33,27 @@ If you want to help me continue make free (as in freedom) software you can consi
 |              C             |            Rust            |             PHP            |            SHell            |           Free Pascal           |             Golang             |
 |:--------------------------:|:--------------------------:|:--------------------------:|:--------------------------:|:--------------------------:|:--------------------------:|
 | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/The_C_Programming_Language_logo.svg/1200px-The_C_Programming_Language_logo.svg.png" width="100px"> | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Rust_programming_language_black_logo.svg/1200px-Rust_programming_language_black_logo.svg.png" width="100px"> | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1024px-PHP-logo.svg.png" width="100px"> | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/1200px-Bash_Logo_Colored.svg.png" width="100px"> | <img src="https://wiki.freepascal.org/images/f/fd/Lazarus-icons-lpr-proposal-bpsoftware.png" width="100px"> | <img src="https://go.dev/blog/go-brand/Go-Logo/PNG/Go-Logo_Blue.png" width="100px"> |
-| The nicest language on earth |  C++ who is afraid of stdin  |  JavaScript with an :elephant:  |  Go POSIX or go home  |  Go for people who know how to program  | `go := "Nerfed FreePascal for glue-eating devs"`  |
+| C++ with a better syntax	 | The only thing better than not having to manage memory is feeling morally superior about it.	  |  Where you can mix business logic with presentation logic, just like putting a pineapple on a pizza  |  SHell: because who needs good syntax? |  Because you're not a real programmer until you've compiled something from a text editor	  | Golang: for when you need to glue things together, but also want to eat the glue |
 
 ## Unpopular Opinions :persevere:
 
-* Technology **IS NOT** politics, focus on science and innovation those are more important than "which term is more or less inclusive", "is this issue too toxic?" and other things. Science needs you to solve problems with your head :heart:
-  * "B-but...everything is politics". Go to a politics place then, the compiler didn't, doesn't and won't ever care which social movement you side with.
-* Codes Of Conduct **SOMETIMES** are absolutely ridiculous and sometimes kill projects sometimes by banning good contributors for reasons arbitrary to their coding skills.
-* One rude **BUT** good contributor is worth more than a hunded kind and flawed ones.
+* Technology **IS NOT** politics, focus on science and innovation those are more important than "which term is more or less inclusive", "is this issue too toxic?" and other things. SScience calls upon us to solve problems with our intellect and ingenuity.
+  * "But...everything is politics". Go to a politics place then, the compiler didn't, doesn't and won't ever care which social movement you side with.
+* Codes of conduct can be both beneficial and detrimental to a project. Sometimes, they can be entirely ridiculous and lead to the dismissal of valuable contributors for arbitrary reasons unrelated to their coding skills.
+* It is better to have one rude yet talented contributor than a hundred kind yet mediocre ones.
 * The only obsolete and useless programming languages are the ones you cannot master with your current skill.
   * "But PHP is old and..." yes, we heard you boi who cannot be productive without `npm install`.
-* C and C++ aren't insecure and **super-dangerous**, devs don't read new standards and they suck at C/C++.
+* Those who claim that C and C++ are insecure and super-dangerous are often those who fail to keep up with new standards and are not skilled in those languages.
 * Horrible code comes from horrible programmers.
 * `-O3` doesn't produce faulty code, if it does, your code is wrong, not the compiler.
-* The `gnome-keyring-daemon` fucking sucks but there is no good alternative to it.
+* The `gnome-keyring-daemon` fucking sucks, but alas, there is no better alternative.
 * YAML sucks :neutral_face: (2023 update, it still sucks)
 * "Cross platform" usually means "Web interface" which isn't really better
 * Using a lot of dependencies doesn't make a project "smart" it makes it "bloated"
 * Some garbage **IS NOT OK**
 * The popular mindset of "Customers don't care how you did it, they care that software just works" is precisely what's making us drown in bugs.
-* "We have too much memory nowadays", "We have massive storage" are just excuses for people who can't build efficient software.
-* Making things simple isn't difficult, y'all just too lazy to think sometimes (myself included).
+* The abundance of memory and storage should not be used as an excuse for inefficient software.
+* To keep things simple, we must exercise our minds and avoid succumbing to laziness, for simplicity in our software is not a difficult task.
 ---
 
 
