@@ -9,6 +9,7 @@ I'm a software developer, sysadmin and DevOps specialist (most of the time), a h
 
 Most of my personal interests revolve around computers, web development isn't that interesting for me. However, I find myself disheartened by the current trend of over-engineering websites. In a world of needless complexity, the elegance of sysadmin work shines through. I'm not saying the web sucks...much. *BUT* we do need sysadmins too so Should you require assistance in this area, do not hesitate to seek me out. I am more than willing to lend a hand.
 
+I **LOVE** to write my own software. But I do not seek to diminish the skills or accomplishments of other programmers, nor declare that my stack is superior to all others. I do it just for fun and learning.
 
 ## Other things I love :heart:
 
