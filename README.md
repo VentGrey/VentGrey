@@ -38,7 +38,7 @@ If you want to help me continue make free (as in freedom) software you can consi
 
 ## Unpopular Opinions :persevere:
 
-* Technology **IS NOT** politics, focus on science and innovation those are more important than "which term is more or less inclusive", "is this issue too toxic?" and other things. SScience calls upon us to solve problems with our intellect and ingenuity.
+* Technology **IS NOT** politics, focus on science and innovation those are more important than "which term is more or less inclusive", "is this issue too toxic?" and other things. Science calls upon us to solve problems with our intellect and ingenuity.
   * "But...everything is politics". Go to a politics place then, the compiler didn't, doesn't and won't ever care which social movement you side with.
 * Codes of conduct can be both beneficial and detrimental to a project. Sometimes, they can be entirely ridiculous and lead to the dismissal of valuable contributors for arbitrary reasons unrelated to their coding skills.
 * It is better to have one rude yet talented contributor than a hundred kind yet mediocre ones.
