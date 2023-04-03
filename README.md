@@ -72,7 +72,7 @@ Some other places I've worked for:
 * CyberIndustree (2020 - 2020)
 * BrannAR (2017 - 2019)
 * [NetlogistiK](https://netlogistik.com) (2022) (FEB-SEP)
-* [UpVent](https://upvent.codes/) (2020 - Present)
+* [UpVent](https://upvent.codes/) (2020 - 2023)
 
 If you want to ask me why I curse a heck-lot in my code, any question or just wanna have a nice chit-chat you can reach me out in Telegram at: @VentGrey
 
