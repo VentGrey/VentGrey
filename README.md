@@ -5,11 +5,11 @@
 
 Hello there, chaps. My name is *Omar* :3 people usually call me *"Vent"* or *"VentGrey"* (online...that is). 
 
-I'm a software developer, sysadmin and DevOps specialist (most of the time), a highly-proud free-software (as in freedom) activist and a happy contributor to free software repositories so, if I follow you on GitHub I will probably look all your repos and enjoy your work. 
+I'm a software developer, sysadmin and DevOps specialist (most of the time). My devotion to the principles of free software is unwavering, and I take great pride in watching my mates grow and expand their various open-source repositories on GitHub.
 
 Most of my personal interests revolve around computers, web development isn't that interesting for me. However, I find myself disheartened by the current trend of over-engineering websites. In a world of needless complexity, the elegance of sysadmin work shines through. I'm not saying the web sucks...much. *BUT* we do need sysadmins too so Should you require assistance in this area, do not hesitate to seek me out. I am more than willing to lend a hand.
 
-I **LOVE** to write my own software. But I do not seek to diminish the skills or accomplishments of other programmers, nor declare that my stack is superior to all others. I do it just for fun and learning.
+I **LOVE** to write my own software. But I do not seek to diminish the skills or accomplishments of other programmers, nor declare that my stack is superior to all others. I write software purely for the sake of enjoyment and to expand my knowledge of the art.
 
 ## Other things I love :heart:
 
@@ -77,4 +77,4 @@ Some other places I've worked for:
 If you want to ask me why I curse a heck-lot in my code, any question or just wanna have a nice chit-chat you can reach me out in Telegram at: @VentGrey
 
 
-> "I would change everything I know, in exchange for **half** of what I don't"
+> Learn not just to know more, but to ignore less.
