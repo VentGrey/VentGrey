@@ -19,13 +19,6 @@ I **LOVE** to write my own software. But I do not seek to diminish the skills or
 * :grey_question: Not knowing things.
 * Microsoft can shoo itself out of here >:(
 
-## Support :heart:
-
-If you want to help me continue make free (as in freedom) software you can consider inviting me a coffee here :)
-
-- KoFi ☕ :  https://ko-fi.com/ventgrey
-- Monero : 484vLbNSiVj57tcvXkYAs5dMgMV64RLLb5xD2YZfaKkJDLSv1tQeb9iDcdPXBEDFPriwQpkYftHPyZKjSuMVneCWJ3yenr9
-
 ## My GitHub status. This thing is to showoff...isn't it? :thinking:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ventgrey&hide=javascript,html,css,python,julia,scss,emacs%20lisp,ruby,roff,prolog,vim%20script,makefile,m4,perl,c%2B%2B,kotlin,elm,svelte,java,C%23,hcl,batchfile,gsl,meson,coffeescript,dart,glsl,jupyter%20notebook&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
