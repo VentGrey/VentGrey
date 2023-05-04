@@ -17,7 +17,7 @@ I **LOVE** to write my own software. But I do not seek to diminish the skills or
 * :smiley_cat: Cats, cause those are the *cutest* animal on earth.
 * :star2: viewing repos of my comrades.
 * :grey_question: Not knowing things.
-* Proprietary big-tech can shoo itself out of here.
+* Microsoft can shoo itself out of here >:(
 
 ## Support :heart:
 
