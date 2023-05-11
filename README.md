@@ -1,7 +1,7 @@
 <h1 align="center"> "Second record was called Morningrise"~ <a href="https://youtube.com/clip/UgkxPEfuRaUGsF3KAl52UCex4gLRnJQOBKsO">Mikael Åkerfeldt</a>  </h1>
 <img src="https://is3-ssl.mzstatic.com/image/thumb/Music118/v4/d4/37/73/d43773be-9eb0-68b9-a0ff-a9d249dfb779/00602557276473.rgb.jpg/248x248cc.jpg" align="right">
 
-## A few facts about me
+## A few facts about me. A dude who likes to program for fun.
 
 Hello there, chaps. My name is *Omar* :3 people usually call me *"Vent"* or *"VentGrey"* (online...that is). 
 
