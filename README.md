@@ -3,6 +3,8 @@
 
 ## A few facts about me. A dude who likes to program for fun.
 
+> [Silly monkeys](https://www.google.com/search?q=everyone+including+myself&sxsrf=AB5stBiYx50-yVdQWLFJEHq2wtLfgmAMMw:1689880899863&ei=Q4m5ZMevNN7vkPIPiaet2AM&start=10&sa=N&ved=2ahUKEwiH3f71gJ6AAxXeN0QIHYlTCzsQ8NMDegQIAxAW&biw=1366&bih=649&dpr=1) give them thumbs, they make a club to beat their brother down. How they survived so misguided is a mistery.
+
 Hello there, chaps. My name is *Omar* :3 people usually call me *"Vent"* or *"VentGrey"* (online...that is). 
 
 I'm a software developer, sysadmin and DevOps specialist (most of the time). My devotion to the principles of free software is unwavering, and I take great pride in watching my mates grow and expand their various free (libre) software repositories on GitHub.
