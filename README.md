@@ -39,6 +39,7 @@ I **LOVE** to write my own software. But I do not seek to diminish the skills or
 * Horrible code comes from horrible programmers.
 * `-O3` doesn't produce faulty code, if it does, your code is wrong, not the compiler.
 * The `gnome-keyring-daemon` fucking sucks, but alas, there is no better alternative.
+* CORS shouldn't exist. It's just here to dumb things even more.
 * YAML sucks :neutral_face: (2023 update, it still sucks)
 * "Cross platform" usually means "Web interface" which isn't really better
 * Using a lot of dependencies doesn't make a project "smart" it makes it "bloated"
