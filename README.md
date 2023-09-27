@@ -13,6 +13,8 @@ Most of my personal interests revolve around computers, web development isn't th
 
 I **LOVE** to write my own software. But I do not seek to diminish the skills or accomplishments of other programmers, nor declare that my stack is superior to all others. I write software purely for the sake of enjoyment and to expand my knowledge of the art.
 
+> After receiving some questions about it I've decided to answer why some of my repos have a worked-out README file and a fancy social-preview image. It's simple, I like to keep things my way and leave them "well-done" even if the only user is myself. I don't do those presentation changes for others but for myself :)
+
 ## Other things I love :heart:
 
 * :notes: I love progressive Rock / Metal. Specially Steven Wilson and Opeth :metal:
