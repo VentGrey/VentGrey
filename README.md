@@ -3,7 +3,7 @@
 
 ## A few facts about me. A dude who likes to program for fun.
 
-> GPL-3 and other Gnu licenses aren't "more restrictive" than other licenses. MIT and other licenses are for dev-cucks who write proprietary software for free.
+> GPL-3 and other Gnu licenses aren't "more restrictive" than other licenses. MIT and permissive licenses in general are for dev-cucks who write proprietary software for free.
 
 Hello there, chaps. My name is *Omar* :3 people usually call me *"Vent"* or *"VentGrey"* (online...that is). 
 
