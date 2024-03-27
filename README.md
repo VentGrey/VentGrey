@@ -3,7 +3,7 @@
 
 ## A few facts about me. A dude who likes to program for fun.
 
-> [Silly monkeys](https://www.google.com/search?q=everyone+including+myself&sxsrf=AB5stBiYx50-yVdQWLFJEHq2wtLfgmAMMw:1689880899863&ei=Q4m5ZMevNN7vkPIPiaet2AM&start=10&sa=N&ved=2ahUKEwiH3f71gJ6AAxXeN0QIHYlTCzsQ8NMDegQIAxAW&biw=1366&bih=649&dpr=1) give them thumbs, they make a club to beat their brother down. How they survived so misguided is a mistery.
+> GPL-3 and other Gnu licenses aren't "more restrictive" than other licenses. MIT and other licenses are for dev-cucks who write proprietary software for free.
 
 Hello there, chaps. My name is *Omar* :3 people usually call me *"Vent"* or *"VentGrey"* (online...that is). 
 
