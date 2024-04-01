@@ -35,6 +35,10 @@ I **LOVE** to write my own software. But I do not seek to diminish the skills or
 
 ## Unpopular Opinions :persevere:
 
+Rants about what technology should or should not be. 
+
+> I'd like to say *no hard feelings* but I would be lying.
+
 * Technology **IS NOT** politics, focus on science and innovation. Science calls upon us to solve problems with our intellect and ingenuity.
 * The only obsolete and useless programming languages are the ones you cannot master with your current skill.
 * Those who claim that C and C++ are insecure and super-dangerous are often those who fail to keep up with new standards and are not skilled in those languages.
@@ -49,6 +53,7 @@ I **LOVE** to write my own software. But I do not seek to diminish the skills or
 * The popular mindset of "Customers don't care how you did it, they care that software just works" is precisely what's making us drown in bugs.
 * The abundance of memory and storage should not be used as an excuse for inefficient software.
 * To keep things simple, we must exercise our minds and avoid succumbing to laziness, for simplicity in our software is not a difficult task.
+* Chromium DNS issues solved by flushing the DNS and socket pools **IN THE BROWSER** just proves that Google is indeed full of morons.
 ---
 
 > Learn not just to know more, but to ignore less.
