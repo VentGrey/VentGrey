@@ -54,6 +54,7 @@ Rants about what technology should or should not be.
 * The abundance of memory and storage should not be used as an excuse for inefficient software.
 * To keep things simple, we must exercise our minds and avoid succumbing to laziness, for simplicity in our software is not a difficult task.
 * Chromium DNS issues solved by flushing the DNS and socket pools **IN THE BROWSER** just proves that Google is indeed full of morons.
+* If your 2FA SMS or Email takes more than one minute to be received. Please turn off that feature, it's useless on your side anyways
 ---
 
 > Learn not just to know more, but to ignore less.
