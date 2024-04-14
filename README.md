@@ -3,8 +3,6 @@
 
 ## A few facts about me. A dude who likes to program for fun.
 
-> GPL-3 and other Gnu licenses aren't "more restrictive" than other licenses. MIT and permissive licenses in general are for dev-cucks who write proprietary software for free.
-
 Hello there, chaps. My name is *Omar* :3 people usually call me *"Vent"* or *"VentGrey"* (online...that is). 
 
 I'm a software developer, sysadmin and DevOps specialist (most of the time). My devotion to the principles of free software is unwavering, and I take great pride in watching my mates grow and expand their various free (libre) software repositories on GitHub.
@@ -12,6 +10,8 @@ I'm a software developer, sysadmin and DevOps specialist (most of the time). My 
 Most of my personal interests revolve around computers, web development isn't that interesting for me. I, However, find myself disheartened by the current trend of over-engineering websites. In a world of needless complexity, the elegance of sysadmin work shines through. I'm not saying the web sucks...much. *BUT* we do need sysadmins too so, should you require assistance in this area, do not hesitate to seek me out. I am more than willing to lend a hand.
 
 I **LOVE** to write my own software. But I do not seek to diminish the skills or accomplishments of other programmers, nor declare that my stack is superior to all others. I write software purely for the sake of enjoyment and to expand my knowledge of the art.
+
+Just kidding, I reinvent the wheel constantly due to available wheels being absolute garbage.
 
 > After receiving some questions about it I've decided to answer why some of my repos have a worked-out README file and a fancy social-preview image. It's simple, I like to keep things my way and leave them "well-done" even if the only user is myself. I don't do those presentation changes for others but for myself :)
 
