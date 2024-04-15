@@ -1,6 +1,8 @@
 <h1 align="center"> "Second record was called Morningrise"~ <a href="https://youtube.com/clip/UgkxPEfuRaUGsF3KAl52UCex4gLRnJQOBKsO">Mikael Åkerfeldt</a>  </h1>
 <img src="https://is3-ssl.mzstatic.com/image/thumb/Music118/v4/d4/37/73/d43773be-9eb0-68b9-a0ff-a9d249dfb779/00602557276473.rgb.jpg/248x248cc.jpg" align="right">
 
+> Abrassive, not agressive. Non apologetic.
+
 ## A few facts about me. A dude who likes to program for fun.
 
 Hello there, chaps. My name is *Omar* :3 people usually call me *"Vent"* or *"VentGrey"* (online...that is). 
@@ -33,12 +35,13 @@ Just kidding, I reinvent the wheel constantly due to available wheels being abso
 | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/The_C_Programming_Language_logo.svg/1200px-The_C_Programming_Language_logo.svg.png" width="100px"> | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Rust_programming_language_black_logo.svg/1200px-Rust_programming_language_black_logo.svg.png" width="100px"> | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1024px-PHP-logo.svg.png" width="100px"> | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/1200px-Bash_Logo_Colored.svg.png" width="100px"> | <img src="https://wiki.freepascal.org/images/f/fd/Lazarus-icons-lpr-proposal-bpsoftware.png" width="100px"> | <img src="https://go.dev/blog/go-brand/Go-Logo/PNG/Go-Logo_Blue.png" width="100px"> |
 | C++ with a better syntax	 | The only thing better than not having to manage memory is feeling morally superior about it.	  |  Where you can mix business logic with presentation logic, just like putting a pineapple on a pizza  |  Because who needs readable syntax? |  Because you're not a real programmer until you've compiled something from a text editor	  | For when you need to glue things together, but also want to eat the glue |
 
-## Unpopular Opinions :persevere:
+## Modern computing sucks
 
-Rants about what technology should or should not be. 
+Rants about software douchebaggeries.
 
 > I'd like to say *no hard feelings* but I would be lying.
 
+* SSL was a good idea terribly implemented. Relying on big tech for CA's was the single most idiotic thing the web baboons could come up with.
 * Technology **IS NOT** politics, focus on science and innovation. Science calls upon us to solve problems with our intellect and ingenuity.
 * The only obsolete and useless programming languages are the ones you cannot master with your current skill.
 * Those who claim that C and C++ are insecure and super-dangerous are often those who fail to keep up with new standards and are not skilled in those languages.
