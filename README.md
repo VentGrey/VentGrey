@@ -3,8 +3,6 @@
 
 > Abrassive, not agressive. Non apologetic.
 
-> Avoid Reddit or StackOverflow for programming/system questions. Unless you want unsolicited and worthless opinions rather than the answers you are looking for...
-
 ## A few facts about me. A dude who likes to program for fun.
 
 Hello there, chaps. My name is *Omar* :3 people usually call me *"Vent"* or *"VentGrey"* (online...that is). 
